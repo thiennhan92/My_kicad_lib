@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1.2V_CPU
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +1.2V_INT
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +1.5V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3.0VA
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP APJ3-095S64
+D 2-pin audio jack receptable (mono/TS connector) with switching contact
+K audio jack receptable mono headphones phone TS connector
+F ~
+$ENDCMP
+#
+$CMP B230_0
+D 30V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B240_0
+D 40V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B250_0
+D 50V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B260_0
+D 60V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP IRF4435
+D 0.35A Id, 240V Vds, N-Channel MOSFET, SOT-223
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f
+$ENDCMP
+#
+$CMP MBR20200CT
+D Schottky diode, two anode pins
+K diode schotty SCHDPAK
+$ENDCMP
+#
+$CMP MCIMX233CAG4C
+D ARM
+$ENDCMP
+#
+$CMP PJ-313D
+D CONN JACK STEREO 3.5MM SMD R/A
+K CP-3523SJCT-ND SJ
+F https://www.cui.com/product/resource/digikeypdf/sj-352x-smt_series.pdf
+$ENDCMP
+#
+$CMP PMK30EP
+D 0.35A Id, 240V Vds, N-Channel MOSFET, SOT-223
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f
+$ENDCMP
+#
+$CMP RJ45-TRANSFO
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+$CMP STD10PF06T4
+D 0.35A Id, 240V Vds, N-Channel MOSFET, SOT-223
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f
+$ENDCMP
+#
+$CMP ZHCS1000
+D 20V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+#End Doc Library
