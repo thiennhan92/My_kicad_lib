@@ -100,6 +100,18 @@ K N-Channel MOSFET
 F https://www.infineon.com/dgdl/Infineon-BSP129-DS-v01_42-en.pdf?fileId=db3a30433c1a8752013c1fc296d2395f
 $ENDCMP
 #
+$CMP TCMT1600
+D AC/DC Phototransistor Optocoupler, Vce 70V, CTR 80-300%, SOP4
+K NPN AC DC Phototransistor Optocoupler
+F http://www.vishay.com/docs/83512/tcmt1600.pdf
+$ENDCMP
+#
+$CMP TLP290
+D AC/DC Phototransistor Optocoupler, Vce 80V, CTR 50-600%, not recommended for new designs, SOP4
+K NPN AC DC Phototransistor Optocoupler
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=12882&prodName=TLP290
+$ENDCMP
+#
 $CMP ZHCS1000
 D 20V 2A Schottky Barrier Rectifier Diode, SMB
 K diode Schottky
