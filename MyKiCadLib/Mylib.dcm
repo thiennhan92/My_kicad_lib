@@ -77,6 +77,12 @@ $CMP MCIMX233CAG4C
 D ARM
 $ENDCMP
 #
+$CMP OPA541AP
+D High Common-Mode Voltage, Programmable Gain Difference Amplifier, +/-120V, Gain = 0.1 to 100, SOIC-8/MSOP-8
+K difference amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD628.pdf
+$ENDCMP
+#
 $CMP PJ-313D
 D CONN JACK STEREO 3.5MM SMD R/A
 K CP-3523SJCT-ND SJ
