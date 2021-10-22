@@ -56,6 +56,12 @@ K diode Schottky
 F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
 $ENDCMP
 #
+$CMP D_KAA
+D Diode, anode on pins 2 and 3
+K diode
+F ~
+$ENDCMP
+#
 $CMP FS8205A
 D 0.35A Id, 240V Vds, N-Channel MOSFET, SOT-223
 K N-Channel MOSFET
@@ -75,6 +81,12 @@ $ENDCMP
 #
 $CMP MCIMX233CAG4C
 D ARM
+$ENDCMP
+#
+$CMP MUR1560
+D Diode, anode on pins 2 and 3
+K diode
+F ~
 $ENDCMP
 #
 $CMP OPA541AP

@@ -77,6 +77,12 @@ $CMP MCIMX233CAG4C
 D ARM
 $ENDCMP
 #
+$CMP MUR1560
+D Diode, anode on pins 2 and 3
+K diode
+F ~
+$ENDCMP
+#
 $CMP OPA541AP
 D High Common-Mode Voltage, Programmable Gain Difference Amplifier, +/-120V, Gain = 0.1 to 100, SOIC-8/MSOP-8
 K difference amplifier
