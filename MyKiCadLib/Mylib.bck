@@ -26,6 +26,11 @@ K Low Noise Audio PNP Transistor
 F http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf
 $ENDCMP
 #
+$CMP 48F-01GY2DPL2NL
+D Through Hole Ethernet Connectors/Modular Connectors (RJ45 RJ11)
+F https://datasheet.lcsc.com/szlcsc/1811141115_Shanghai-YDS-Tech-48F-01GY2DPL2NL_C123172.pdf
+$ENDCMP
+#
 $CMP APJ3-095S64
 D 2-pin audio jack receptable (mono/TS connector) with switching contact
 K audio jack receptable mono headphones phone TS connector
